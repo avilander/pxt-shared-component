@@ -1,1 +1,0 @@
-[{"__symbolic":"module","version":4,"metadata":{},"exports":[{"from":"./app/components/pxt-app-header/pxt-app-header.module","export":["PxtAppHeaderModule"]},{"from":"./app/components/pxt-app-header/pxt-app-header.component","export":["PxtAppHeaderComponent"]}]}]
